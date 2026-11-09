@@ -1,2 +1,2 @@
 <h1>Polytech Git Lab</h1>
-test
+수업용
